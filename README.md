@@ -1,5 +1,8 @@
 # Flask Transaction Application
 This is a simple Flask application that allows users to manage transactions. It provides basic CRUD (Create, Read, Update, Delete) operations for transactions. Users can view a list of transactions, add new transactions, edit existing transactions, and delete transactions.
+![ezgif com-video-to-gif](https://github.com/ibm-developer-skills-network/flask_app/assets/90204593/a7bb7b33-be64-44e9-9982-69ba522917f4)
+
+
 ## Installation
 1. Clone the repository:
 ```
