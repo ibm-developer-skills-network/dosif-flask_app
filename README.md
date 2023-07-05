@@ -3,7 +3,7 @@ This is a simple Flask application that allows users to manage transactions. It 
 ## Installation
 1. Clone the repository:
 ```
-git clone https://github.com/ibm-developer-skills-network/dosif-flask_app.git
+git clone https://github.com/ibm-developer-skills-network/flask_app.git
 ```
 
 2. Navigate to the project directory:
