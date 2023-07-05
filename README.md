@@ -8,7 +8,7 @@ git clone https://github.com/ibm-developer-skills-network/dosif-flask_app.git
 
 2. Navigate to the project directory:
 ```
-cd flask-transaction-manager
+cd flask_app
 ```
 
 3. Install the required dependencies:
@@ -19,6 +19,7 @@ pip install -r requirements.txt
 The following dependencies will be installed:
 
 Flask==2.3.2
+
 Flask_Testing==0.8.1
 
 ## Usage
